@@ -46,8 +46,8 @@ const Navbar = () => {
         {/* Logo */}
         <div className="text-lg font-semibold cursor-pointer">
           <span className="text-blue-500">&lt;</span>
-          <span className="text-white">Chirag </span>
-          <span className="text-white">Lal Chandani</span>
+          <span className="text-white">Harshit </span>
+          <span className="text-white">Singh</span>
           <span className="text-blue-500">&gt;</span>
         </div>
 
@@ -70,7 +70,7 @@ const Navbar = () => {
         {/* Social Icons */}
         <div className="hidden md:flex space-x-4">
           <a
-            href="https://github.com/Chirag569"
+            href="https://github.com/HArshiT8214"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-400 hover:text-blue-400"
@@ -78,7 +78,7 @@ const Navbar = () => {
             <FaGithub size={24} />
           </a>
           <a
-            href="https://www.linkedin.com/in/chirag-lal-chandani-011657300/"
+            href="https://www.linkedin.com/in/harshit-singh-678452262/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-400 hover:text-blue-400"
@@ -121,7 +121,7 @@ const Navbar = () => {
             ))}
             <div className="flex space-x-4">
               <a
-                href="https://github.com/Chirag569"
+                href="https://github.com/HArshiT8214"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-blue-400"
@@ -129,7 +129,7 @@ const Navbar = () => {
                 <FaGithub size={24} />
               </a>
               <a
-                href="https://www.linkedin.com/in/chirag-lal-chandani-011657300/"
+                href="https://www.linkedin.com/in/harshit-singh-678452262/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-blue-400"

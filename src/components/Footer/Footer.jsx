@@ -15,7 +15,7 @@ const Footer = () => {
       <div className="container mx-auto text-center">
         {/* Name / Logo */}
         <h2 className="text-xl font-semibold text-[#2563eb]">
-          Chirag Lal Chandani
+          Harshit Singh
         </h2>
 
         {/* Navigation Links */}
@@ -43,11 +43,11 @@ const Footer = () => {
           {[
             {
               icon: <FaGithub />,
-              link: "https://github.com/Chirag569",
+              link: "https://github.com/HArshiT8214",
             },
             {
               icon: <FaLinkedin />,
-              link: "https://www.linkedin.com/in/chirag-lal-chandani-011657300/",
+              link: "https://www.linkedin.com/in/harshit-singh-678452262/",
             },
             {
               icon: <FaInstagram />,
@@ -72,7 +72,7 @@ const Footer = () => {
 
         {/* Copyright */}
         <p className="text-sm text-gray-500 mt-6">
-          © {new Date().getFullYear()} Chirag Lal Chandani. All rights reserved.
+          © {new Date().getFullYear()} Harshit Singh. All rights reserved.
         </p>
       </div>
     </footer>

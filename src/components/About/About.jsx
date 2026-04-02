@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactTypingEffect from 'react-typing-effect';
 import Tilt from 'react-parallax-tilt';
-import profileImage from '../../assets/profile2.png';
+import profileImage from '../../assets/profile2.jpg';
 
 const About = () => {
   return (
@@ -27,7 +27,7 @@ const About = () => {
           </h1>
           {/* Name */}
           <h2 className="text-4xl sm:text-5xl md:text-6xl font-bold text-white mb-4 leading-tight">
-            Chirag Lal Chandani
+            Harshit Singh
           </h2>
           {/* Skills Heading with Typing Effect */}
           <h3 className="text-xl sm:text-2xl md:text-3xl font-semibold mb-4 text-[#2563eb] leading-tight">
@@ -51,12 +51,12 @@ const About = () => {
 
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-          I am a full-stack developer with hands-on experience in designing and developing scalable web applications, chatbots, and data-driven platforms. Skilled in Next.js, JavaScript, React.js, Node.js, MongoDB, Prisma, and Tailwind CSS. I have built projects ranging from a WhatsApp Helpdesk Chatbot to SaaS platforms and clinic management systems. With proven experience in both frontend and backend development, I specialize in creating intuitive user interfaces, robust backend architectures, and integrating third-party APIs to deliver seamless and efficient solutions.
+          Full-stack software engineer with experience building scalable backend systems, real-time applications, and AI-powered solutions. Proven ability to reduce latency, optimize performance, and deliver production-ready systems. Strong foundation in Data Structures, Algorithms, and System Design.
           </p>
 
           {/* Resume Button */}
           <a
-            href="https://drive.google.com/file/d/1zda74RFLZaCedvNIajS7qfPiLjDOdVZh/view?usp=sharing"
+            href="https://drive.google.com/file/d/11oj2ADLrUKP_cfMpPMnIFPTGtIGFTaUU/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold 
@@ -84,7 +84,7 @@ const About = () => {
           >
             <img
               src={profileImage}
-              alt="Chirag Lal Chandani"
+              alt="Harshit Singh"
               className="w-full h-full rounded-full object-cover"
             />
           </Tilt>
